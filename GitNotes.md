@@ -1,7 +1,7 @@
 # Revisions and the cloud  
 
 -**Local version control** 
-> *Database on ahrd disk to store changes to files*   
+> *Database on anSd disk to store changes to files*   
 
 -**Centralized version control**  
 >*Database on server that tracks file changes*  
@@ -14,6 +14,6 @@
 >*A distributed version control system*  
 >*Made up of snapshots only stored as a reference to the already stored identical version of it*  
 >*Relies on local machines*  
-    ***Commited***= Stored in local machine/database  
+    ***Committed***= Stored in local machine/database  
     ***Modified***= File has been changed not yet commited   
-    ***Staged***=  Flagged as a file changed and has yet to be commited
+    ***Staged***=  Flagged as a file changed and has yet to be committed
