@@ -11,3 +11,4 @@
 -ls= list of directory contents
 -pwd= Print working directory
 -cd= Change directory 
+ls= list
