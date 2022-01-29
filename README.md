@@ -18,4 +18,5 @@
 >- Views effort as fruitless
 >- Ignores criticism***
 >- Views the success of others as a threat
+> test 
 
