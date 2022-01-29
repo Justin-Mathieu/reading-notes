@@ -1,3 +1,9 @@
+
+[**Growth MIndset**](README.md)  
+ [**Coder's computer**](codersComputer.md)    
+[**Git notes**](GitNotes.md)  
+[Html](HtmlStructures.md)  
+
 # **Reading-notes**
 
  ***Code Fellows 102 reading notes***  

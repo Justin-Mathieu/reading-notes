@@ -1,3 +1,13 @@
+
+
+[**Growth MIndset**](README.md)  
+ [**Coder's computer**](codersComputer.md)    
+[**Git notes**](GitNotes.md)  
+[**Html**](HtmlStructures.md)
+
+
+
+
 # **Text editor** 
     -*A text editor only edits text.*  
     -*Can be used with extensions.*  

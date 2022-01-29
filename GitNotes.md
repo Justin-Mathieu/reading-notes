@@ -1,3 +1,13 @@
+
+
+[**Growth MIndset**](README.md)  
+ [**Coder's computer**](codersComputer.md)    
+[**Git notes**](GitNotes.md)  
+[Html](HtmlStructures.md)
+
+
+
+
 # Revisions and the cloud  
 
 -**Local version control** 
@@ -16,4 +26,4 @@
 >*Relies on local machines*  
     ***Committed***= Stored in local machine/database  
     ***Modified***= File has been changed not yet commited   
-    ***Staged***=  Flagged as a file changed and has yet to be committed
+    ***Staged***=  Flagged as a file changed and has yet to be committed  S

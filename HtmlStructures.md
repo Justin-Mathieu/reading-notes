@@ -1,3 +1,13 @@
+\
+
+[**Growth MIndset**](README.md)  
+ [**Coder's computer**](codersComputer.md)    
+[**Git notes**](GitNotes.md)  
+[Html](HtmlStructures.md)
+
+
+
+
 # **Html structures**   
 
 >*Html is basically the code that outlines the content and structure  of ther page.*  
