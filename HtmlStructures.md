@@ -1,17 +1,13 @@
-\
-
 [**Growth MIndset**](README.md)  
  [**Coder's computer**](codersComputer.md)    
 [**Git notes**](GitNotes.md)  
 [Html](HtmlStructures.md)
-
-
-
+[CSS notes](cssnotes.md)
 
 # **Html structures**   
 
 >*Html is basically the code that outlines the content and structure  of ther page.*  
->*Html is made up of a series of elements that wrap the content and tell it to look a certain way using tags.*    
+>*Html is made up of a series of elements that wrap the content and tell it to look a certain way using tags.*      
  
 # **Components of html**   
 

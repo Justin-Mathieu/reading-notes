@@ -1,3 +1,9 @@
+[**Growth Mindset**](README.md)  
+ [**Coder's computer**](codersComputer.md)    
+[**Git notes**](GitNotes.md)  
+[Html](HtmlStructures.md)  
+[CSS notes](cssnotes.md)  
+
 # CSS Notes**  
 
 ## **What is CSS?**  

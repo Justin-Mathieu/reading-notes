@@ -1,12 +1,8 @@
-
-
 [**Growth MIndset**](README.md)  
  [**Coder's computer**](codersComputer.md)    
 [**Git notes**](GitNotes.md)  
 [Html](HtmlStructures.md)
-
-
-
+[CSS notes](cssnotes.md)
 
 # Revisions and the cloud  
 
