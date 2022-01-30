@@ -11,16 +11,16 @@
 
 ## **Examples**
 *'h1{
-     float: left;
-     margin: 20px;
-     font-size: 60px;
-     font-family: fantasy;
-     font-weight: 50;
-}'
+     float: left;  
+     margin: 20px;  
+     font-size: 60px;  
+     font-family: fantasy;  
+     font-weight: 50;  
+}'    
 *'nav{
-    height: 100px;
-    background-color:rgb(54, 54, 54);
-    margin-bottom: 30px;
-    text-align: center;
+    height: 100px;  
+    background-color:rgb(54, 54, 54);  
+    margin-bottom: 30px;  
+    text-align: center;  
 }'
 
