@@ -3,6 +3,7 @@
 [**Git notes**](GitNotes.md)  
 [**Html**](HtmlStructures.md)
 [CSS notes](cssnotes.md)
+[javascript notes](javascriptnotes.md)  
 
 # **Text editor** 
     -*A text editor only edits text.*  
