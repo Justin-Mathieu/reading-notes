@@ -12,7 +12,7 @@
 ## **Function declaration**  
 >*A function is declared by usingthe name of the function, parmeters of the  fuction(if any),nad ther statements that are performed in the function.*  
 ### Example   
-```
+`
 function ageguess() {
     let guess = prompt('Guess how old Duke is!');
 
@@ -35,8 +35,8 @@ function ageguess() {
 
     return message1;
 
-}
-```
+}`
+
 ## **Invoking a function**  
 >*Invokinmg the function runs that block of code  in the place it was invoked. To invoke a function parentheses are used. 
 ## **Example**
