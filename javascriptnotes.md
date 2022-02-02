@@ -3,7 +3,8 @@
 [**Git notes**](GitNotes.md)  
 [Html](HtmlStructures.md)  
 [CSS notes](cssnotes.md)  
-[javascript notes](javascriptnotes.md)  
+[javascript notes](javascriptnotes.md)    
+[Functions](functions.md)  
 
 # **Javascript notes**
 

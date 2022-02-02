@@ -4,6 +4,7 @@
 [Html](HtmlStructures.md)
 [CSS notes](cssnotes.md)  
 [javascript notes](javascriptnotes.md)  
+[Functions](functions.md)  
 
 # **Html structures**   
 
