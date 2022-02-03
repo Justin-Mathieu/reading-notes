@@ -4,7 +4,8 @@
 [Html](HtmlStructures.md)  
 [CSS notes](cssnotes.md)  
 [javascript notes](javascriptnotes.md)      
-[Functions](functions.md)    
+[Functions](functions.md)      
+[loops](loops.md)  
 
 # **Functions in Javascript**  
 >*Functions ae building block in java script they allow us to call upon and reuse blocks of code.*  

@@ -5,6 +5,7 @@
 [CSS notes](cssnotes.md)  
 [javascript notes](javascriptnotes.md)    
 [Functions](functions.md)  
+[loops](loops.md)  
 
 # **Javascript notes**
 
