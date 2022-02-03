@@ -7,7 +7,7 @@
 
 
 
-# **Loops and operators**
+# **Loops**
 >*Loops let us do some thing repeatedly.*
  
 ## **Types of loops**
