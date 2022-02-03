@@ -14,7 +14,7 @@
 >### **For loop**
 >*a for loop reapeats until a specified condition ewvaluates to be false, to do this evaluates the expressions in the loop*
 **Example**
-`function displayrating() {
+```function displayrating() {
 let output='';
 let rating =  prompt('how many stars? 1-5')
 for(let i = 0;i <rating; i++){
@@ -25,7 +25,7 @@ return document.write(output);`
 ### **Do while loop**
 >* in this loop you are guaranteed tone execution before the loop evaluates the conditions and repeats.*
 **Example**
-`function guessnumber(){
+```function guessnumber(){
 
 let answer;
 do {
@@ -37,17 +37,18 @@ do {
         alert('you are correct');}
 }
     while(answer !=7 );
-}`
+}```
+
 
 ### **While loop**
 >*A while loop executes as long as the condition is true.*
 **Example**
-`let n = 0;
+```let n = 0;
 let x = 0;
 while (n < 3) {
   n++;
   x += n;
-}`
+}```
 
 
 
