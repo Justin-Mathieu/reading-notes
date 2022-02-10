@@ -1,16 +1,12 @@
-[**Growth Mindset**](README.md)  
- [**Coder's computer**](codersComputer.md)    
-[**Git notes**](GitNotes.md)  
-[Html](HtmlStructures.md)  
-[CSS notes](cssnotes.md)  
-[javascript notes](javascriptnotes.md)  
-[Functions](functions.md)  
-[loops](loops.md)  
+[*Growth Mindset*](GrowthMindset.md)  
+ [*Coder's computer*](codersComputer.md)    
+[*Git*](GitNotes.md)  
+[*Html*](HtmlStructures.md)  
+[*CSS*](cssnotes.md)  
+[*Javascript*](javascriptnotes.md)  
+[*Functions*](functions.md)  
+[*loops*](loops.md)  
 
-# **Reading-notes**
-
- ***Code Fellows 102 reading notes***  
->> *Hi my name is Justin Mathieu. I live in Vancouver, WA.*  
 # **Growth mindset**
 >>*Growth midset is contiuing to learn and embracing challenges.*  
 # **growth mindset vs.fixed mindset**  

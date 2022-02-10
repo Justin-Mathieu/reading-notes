@@ -1,9 +1,9 @@
 # **Reading Notes**
-
+>> *Hi my name is Justin Mathieu. I live in Vancouver, WA.*  
 
 ### **Code Fellows 102**
 
-[*Growth Mindset*](README.md)  
+[*Growth Mindset*](GrowthMindset.md)  
  [*Coder's computer*](codersComputer.md)    
 [*Git*](GitNotes.md)  
 [*Html*](HtmlStructures.md)  
