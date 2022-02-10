@@ -1,4 +1,4 @@
-[*Home*](README.md)
+[*Home*](README.md)    
 [*Growth Mindset*](GrowthMindset.md)  
 [*Coder's computer*](codersComputer.md)    
 [*Git*](GitNotes.md)  
