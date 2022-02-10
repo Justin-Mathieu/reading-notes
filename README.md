@@ -4,7 +4,7 @@
 ### **Code Fellows 102**
 
 [*Growth Mindset*](GrowthMindset.md)  
- [*Coder's computer*](codersComputer.md)    
+[*Coder's computer*](codersComputer.md)    
 [*Git*](GitNotes.md)  
 [*Html*](HtmlStructures.md)  
 [*CSS*](cssnotes.md)  
