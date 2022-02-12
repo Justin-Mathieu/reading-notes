@@ -1,15 +1,19 @@
+[Home](README.md)
+
 # **Class 1 Reading Notes**
 
 # **HTML Chapter 1** (*Structures*)
 >*Web pages are structured similaraly to a printed page.*
 
->*Elements are made up of two tags, an opening and a closing tag.Tags encapsulate the content to provide some insight on the type of content and to help structure the page.
+>*Elements are made up of two tags, an opening and a closing tag.Tags encapsulate the content to provide some insight on the type of content and to help structure the page.*
 ### **Example** 
 >> `<p>Paragraph</p>`
 
+
 >*Attributess provided extra information about the content of the element and require two parts; a name and a value.*
 ### **Example**
->> `<p lang="en-us">`
+>> `<p lang="en-us">`  
+
 
 # **Chapter 8** (*Extra Markup*)
 >*DOCTYPE is put at the beginning of every html page to let the browser know the type of html it is written in, it can also help with page rendering.(Most likely will still load the page if it is not there)*

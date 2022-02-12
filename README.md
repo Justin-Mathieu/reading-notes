@@ -14,6 +14,5 @@
 
 
 
-### **Code Fellows 201**
-[Home](README.md)
+### **Code Fellows 201**  
 [class01](Class01.md)
