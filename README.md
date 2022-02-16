@@ -15,5 +15,5 @@
 
 
 ### **Code Fellows 201**  
-[class01](Class01.md)
-[class02](class02.md)
+[Class01](Class01.md)  
+[Class02](Class02.md)

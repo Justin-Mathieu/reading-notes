@@ -1,5 +1,5 @@
 [Home](README.md)
-[class01](Class01.md)
+[Class01](Class01.md)
 
 # Class 2 Reading Notes
 
