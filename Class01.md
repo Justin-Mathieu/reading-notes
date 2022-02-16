@@ -6,7 +6,7 @@
 >*Web pages are structured similaraly to a printed page.*
 
 >*Elements are made up of two tags, an opening and a closing tag.Tags encapsulate the content to provide some insight on the type of content and to help structure the page.*
-### **Example** 
+###  **Example** 
 >> `<p>Paragraph</p>`
 
 
