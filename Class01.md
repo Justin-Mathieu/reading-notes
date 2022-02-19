@@ -1,5 +1,6 @@
 [Home](README.md)
-
+[class02](Class02.md)
+[Classs03](Class03.md)
 # **Class 1 Reading Notes**
 
 # **HTML Chapter 1** (*Structures*)

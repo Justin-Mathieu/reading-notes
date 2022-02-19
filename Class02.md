@@ -1,5 +1,6 @@
 [Home](README.md)
 [Class01](Class01.md)
+[Class03](Class03.md)
 
 # Class 2 Reading Notes
 
@@ -34,7 +35,7 @@
 > Logical operatots compare two expressions as one.  
 > An if ataemnet evaluates a condition and execute the appropriat code block.
 >If else statements are the executions that can be made based on the evaluation of the condition.  
-> In JavaScript drecisions can be broken in to two parts a statement that gets evaluated and conditional statrement the declare what the script should do when the evaluations are made.  
+> In JavaScript decisions can be broken in to two parts a statement that gets evaluated and conditional statement the declare what the script should do when the evaluations are made.  
 > **Example:** 
 
 ```
