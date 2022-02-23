@@ -1,8 +1,9 @@
+# Class 2 Reading Notes
+
 [Home](README.md)
 [Class01](Class01.md)
 [Class03](Class03.md)
-
-# Class 2 Reading Notes
+[Class04](Class04.md)
 
 ## Html Chapter 2 (*Text*)
 
@@ -29,6 +30,7 @@
 >> `let bannana = 5;`
 
 ## JavaScript Chapter 10 (*Decisions and Loops*)  \
+
 > A switch statement sets a value and base on the value runs a block of code that corespopnds with that value.  
 > Loops evaluate the condition until it reutrns to be true. There are mulpiple types of loops such as a while loop, ado while loop and a for loop.  
 > To compare two vlaue in a state mwnt you can use comparison operataors.which constist ogf two operands and one operator in the middle. Operands can also be expressions encased in parenthesis. These values are usually returnd as a boolean.  
@@ -36,7 +38,7 @@
 > An if ataemnet evaluates a condition and execute the appropriat code block.
 >If else statements are the executions that can be made based on the evaluation of the condition.  
 > In JavaScript decisions can be broken in to two parts a statement that gets evaluated and conditional statement the declare what the script should do when the evaluations are made.  
-> **Example:** 
+> **Example:**
 
 ```
 If(this is a condition){
