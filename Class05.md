@@ -4,6 +4,7 @@
 [Class02](Class02.md)  
 [Class03](Class03.md)
 [Class04](CLass04.md)
+[Class06](Class06.md)  
 
 ## Html Chapter 5 (*Images*)
 

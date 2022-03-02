@@ -3,6 +3,8 @@
 [Class01](Class01.md)  
 [Class02](Class02.md)  
 [Class03](Class03.md)
+[Class05](Class05.md)  
+[Class06](Class06.md)
 
 ## Html Chapter 4 (*Links*)
 
@@ -15,7 +17,7 @@
 ## Html Chapter 15 (*Layout*)
 
 > To group together sections of a page a div element is commonlly used.  
-> Browsers default to normal flow unless specified.    (relativ, absolute, or fixed)
+> Browsers default to normal flow unless specified.    (relative, absolute, or fixed)
 > Float is used to move content either left or right and creat a colunm effect.  
 > Pages can either be fixed or liquid.  
 > Pages should be 960-1000 px.demonstrating relevance in the first 600 px.  
