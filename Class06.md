@@ -6,7 +6,8 @@
 [Class04](CLass04.md)  
 [Class05](Class05.md)  
 
-## JavaScript Chapter 3 (*Object Literals*)
+## JavaScript Chapter 3 (*Object Literals*) 
+
 > An object is a group of variables and functions that creat aa model.  
 > Objects have properties and methods properties are made up of key pairs or a name and a value.
 > The methods in objects can be functions.    
@@ -25,3 +26,12 @@
 > Dom manipulation can also add and remove content.  
 >methods can be used to change attributes on selected elements.  
 > There are four types of nodes, text document, attribute and element.
+
+## Blog Post (*Primitive Values vs. Object References*)
+
+> A primitive value is set to specifically that value. A reference value is a reference to location and does not store the value specifically.  
+> Primitive values can not be changed and object referencess can be changed.
+
+## Blog Post (*Problem Domain*)
+
+> The problem domain can be broken down ito manageable and understandable peices to help solve the problem. and writew better code.
