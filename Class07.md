@@ -25,7 +25,7 @@
 
 ## JavaScript Chatper 3 (*Functions, Methods and Objects*)  
 
-> use the keyword new and <object> to create another object.  
+> use the keyword new and < object > to create another object.  
 > Arrays are objects and can be in objects or objects can be in array.  
 > there are three built in objects we can use browser object, document object and global JavaScript meodels.  
 > To use the date object you would use the date object constructor.  
