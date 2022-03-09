@@ -5,7 +5,8 @@
 [Class03](Class03.md)  
 [Class04](CLass04.md)  
 [Class05](Class05.md)  
-[Class06](Class06.md)   
+[Class06](Class06.md)  
+[Class08](Class08.md)
 
 ## Github README (*Domain Modeling*)
 
