@@ -11,8 +11,8 @@
 ## Learn CSS (*Layout*)
 
 > Display property can change if an element is inline or block.
-> Display can also be used to add a flex prpoerty.
-> Flex box can keep the elments or boxes on the same axis and not have the elements wrap.
+> Display can also be used to add a flex prpoerty.  
+> Flex box can keep the elments or boxes on the same axis and not have the elements wrap.  
 > Grid does similar things to flex but can be used on multiple axis.
 > If using normal flow properties such as float and inline block can be used.
 > Multicolumns can be used to divide up long lists to save on space.  
