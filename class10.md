@@ -1,3 +1,6 @@
+# **Class 09 Reading Notes**
+
+[Home](README.md)
 [Class01](Class01.md)  
 [Class02](Class02.md)  
 [Class03](Class03.md)  
@@ -7,8 +10,7 @@
 [Class07](Class07.md)  
 [Class08](Class08.md)  
 [Class9](class9.md)  
-
-# **Class 09 Reading Notes**
+[Class11](Class11.md)  
 
 ## JavaScript Chapter 10 (*Error Handling and Debugging*)
 

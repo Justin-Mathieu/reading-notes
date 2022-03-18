@@ -1,16 +1,22 @@
 # **Class 6 Readding Notes**
 
+[Home](README.md)
 [Class01](Class01.md)  
 [Class02](Class02.md)  
 [Class03](Class03.md)  
 [Class04](CLass04.md)  
 [Class05](Class05.md)  
+[Class07](Class07.md)  
+[Class08](Class08.md)  
+[Class09](Class09.md)  
+[Class10](class10.md)  
+[Class11](Class11.md)  
 
-## JavaScript Chapter 3 (*Object Literals*) 
+## JavaScript Chapter 3 (*Object Literals*)  
 
 > An object is a group of variables and functions that creat aa model.  
 > Objects have properties and methods properties are made up of key pairs or a name and a value.
-> The methods in objects can be functions.    
+> The methods in objects can be functions.  
 > Objects can be created in literal notation or in dot notation.  
 
 ## JavaScript Chapter 5(*Document Object Model*)

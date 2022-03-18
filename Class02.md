@@ -6,6 +6,10 @@
 [Class04](Class04.md)  
 [Class05](Class05.md)  
 [Class06](Class06.md)
+[Class07](Class07.md)  
+[Class08](Class08.md)  
+[Class09](Class09.md)  
+[Class10](class10.md)
 
 ## Html Chapter 2 (*Text*)
 

@@ -1,3 +1,6 @@
+# **Class 09 Reading Notes**
+
+[Home](README.md)
 [Class01](Class01.md)  
 [Class02](Class02.md)  
 [Class03](Class03.md)  
@@ -6,8 +9,10 @@
 [Class06](Class06.md)  
 [Class07](Class07.md)  
 [Class08](Class08.md)  
+[Class10](class10.md)  
+[Class11](Class11.md)  
 
-# **Class 09 Reading Notes**
+
 
 ## Html Chapter 7 (*Forms*)
 
