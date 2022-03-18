@@ -1,13 +1,13 @@
 # **Class 7 Reading Notes**
 
-[Home](README.md)
+[Home](README.md)  
 [Class01](Class01.md)  
 [Class02](Class02.md)  
 [Class03](Class03.md)  
 [Class04](CLass04.md)  
 [Class05](Class05.md)  
 [Class06](Class06.md)  
-[Class08](Class08.md)
+[Class08](Class08.md)  
 [Class09](Class09.md)  
 [Class10](class10.md)  
 [Class11](Class11.md)  

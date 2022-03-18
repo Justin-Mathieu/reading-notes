@@ -1,9 +1,9 @@
 # **Class 3 Reading Notes**
 
-[Home](README.md)
-[Class01](Class01.md)
-[Class02](Class03.md)
-[Class04](Class04.md)
+[Home](README.md)  
+[Class01](Class01.md)  
+[Class02](Class03.md)  
+[Class04](Class04.md)  
 [Class05](Class05.md)  
 [Class06](Class06.md)  
 [Class07](Class07.md)  
