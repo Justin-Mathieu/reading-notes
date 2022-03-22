@@ -10,6 +10,7 @@
 [Class08](Class08.md)  
 [Class09](Class09.md)  
 [Class10](class10.md)  
+[Class12](Class12.md)  
 
 ## Html Chapter 3 (*Lists*)
 

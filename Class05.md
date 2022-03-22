@@ -11,6 +11,7 @@
 [Class09](Class09.md)  
 [Class10](class10.md)  
 [Class11](Class11.md)  
+[Class12](Class12.md)  
 
 ## Html Chapter 5 (*Images*)
 
