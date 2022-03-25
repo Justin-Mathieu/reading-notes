@@ -12,6 +12,7 @@
 [Class09](Class09.md)  
 [Class10](class10.md)  
 [Class11](Class11.md)  
+[Class13](Class13.md)  
 
 ## Article on Chart.js  
 

@@ -12,6 +12,7 @@
 [Class09](Class09.md)  
 [Class10](class10.md)  
 [Class12](Class12.md)  
+[Class13](Class13.md)  
 
 # **HTML Chapter 1** (*Structures*)
 
