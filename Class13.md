@@ -16,11 +16,11 @@
 
 ## Local Storage
 
-> Html storage or lacal storage  
+> Html storage or local storage.  
  is how web pages store data in the browser.  
  > Html storage is based on key value pairs.  
- > the key is a string and the value can be anything supported by javaScript but is stored as a string.  
- > data may need to be changed to a string to be accessed.  
+ > The key is a string and the value can be anything supported by javaScript but is stored as a string.  
+ > Data may need to be changed to a string to be accessed.  
  > Methods sush as remove item and get item can be used or written with brackets.  
- > An event listener can track the changes in the local storage object.
+ > An event listener can track the changes in the local storage object.  
 > html has 5 megabytes of storage.  
