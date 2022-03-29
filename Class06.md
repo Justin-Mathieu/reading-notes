@@ -13,6 +13,7 @@
 [Class11](Class11.md)  
 [Class12](Class12.md)  
 [Class13](Class13.md)  
+[Google Teams Article](googleteams.md)  
 
 ## JavaScript Chapter 3 (*Object Literals*)  
 
