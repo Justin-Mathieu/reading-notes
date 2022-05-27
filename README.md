@@ -41,3 +41,4 @@
 [Passing Functions as Props](ReadingNotes/301/propsFunctions.md)  
 [REST](ReadingNotes/301/rest.md)  
 [APIs](ReadingNotes/301/api.md)  
+[Functional Programming](ReadingNotes/301/functionalProgramming.md)  
