@@ -1,4 +1,4 @@
-# I Memory Storage
+# In Memory Storage
 
 ## JavaScript Call Stack
 
