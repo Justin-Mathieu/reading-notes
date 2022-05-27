@@ -38,3 +38,4 @@
 [Node.js](ReadingNotes/301/nodejs.md)  
 [Putting it All Together](ReadingNotes/301/putItTogether.md)
 [React and Forms](ReadingNotes/301/reactForms.md)
+[Passing Functions as Props](ReadingNotes/301/propsFunctions.md)
