@@ -44,3 +44,4 @@
 [Functional Programming](ReadingNotes/301/functionalProgramming.md)  
 [In Memory Storage](ReadingNotes/301/cache.md)  
 [No SQL vs SQL](ReadingNotes/301/nosqlvssql.md)  
+[Diversity and Inculusion](ReadingNotes/301/dei.md)  
