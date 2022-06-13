@@ -34,32 +34,32 @@ What is the ‘Forbidden’ status code?
 
 Why do we need to pull our MongoDB database string out of our server and put it into our .env?
 
--
+- so that it does not get uploaded to github and remains a secret.
 
 What is middleware?
 
--
+- The body guard of the internet that handles our errors.
 
 What does app.use(express.json()) do?
 
--
+- Tells express that we are using json data
 
 What does the /:id mean in a route?
 
--
+- It is adding the param of id that we can use to select specific peices of data.
 
 What is the difference between PUT and PATCH?
 
--
+- Patch is a partial update.
 
 How do you make a default value in a schema?
 
--
+- by adding a default property.
 
 What does a 500 error status code mean?
 
--
+- General server error
 
 What is the difference between a status 200 and a status 201?
 
--
+- status 200 is an ok status and 201 is no content meant for deleting content.
