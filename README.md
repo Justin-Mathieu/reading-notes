@@ -46,3 +46,4 @@
 [No SQL vs SQL](ReadingNotes/301/nosqlvssql.md)  
 [Diversity and Inculusion](ReadingNotes/301/dei.md)  
 [CRUD](ReadingNotes/301/crud.md)  
+[More CRUD](ReadingNotes/301/crud2.md)  
