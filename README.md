@@ -51,4 +51,4 @@
 ## **Code Felows 401**
 
 [Engineering Readings](ReadingNotes/401/engineeringReadings.md)  
-
+[Growth Mindset](ReadingNotes/401/growthmindset.md)  
