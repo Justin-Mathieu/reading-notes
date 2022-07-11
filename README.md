@@ -1,6 +1,6 @@
 # **Reading Notes**
 
->> *Hi my name is Justin Mathieu. I live in Vancouver, WA.*  
+- Reading notes for CodeFellows course work.
 
 ## **Code Fellows 102**
 
