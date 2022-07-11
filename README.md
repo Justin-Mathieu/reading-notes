@@ -47,3 +47,8 @@
 [Diversity and Inculusion](ReadingNotes/301/dei.md)  
 [CRUD](ReadingNotes/301/crud.md)  
 [More CRUD](ReadingNotes/301/crud2.md)  
+
+## **Code Felows 401**
+
+[Engineering Readings](ReadingNotes/401/engineeringReadings.md)  
+
