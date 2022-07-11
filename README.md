@@ -53,3 +53,4 @@
 [Engineering Readings](ReadingNotes/401/engineeringReadings.md)  
 [Growth Mindset](ReadingNotes/401/growthmindset.md)  
 [Intro to SQL](ReadingNotes/401/introsql.md)  
+[Node](ReadingNotes/401/node.md)  
