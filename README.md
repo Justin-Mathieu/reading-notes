@@ -54,3 +54,4 @@
 [Growth Mindset](ReadingNotes/401/growthmindset.md)  
 [Intro to SQL](ReadingNotes/401/introsql.md)  
 [Node](ReadingNotes/401/node.md)  
+[Terminal Practice](ReadingNotes/401/terminal.md)  
