@@ -56,3 +56,4 @@
 [Node](ReadingNotes/401/node.md)  
 [Terminal Practice](ReadingNotes/401/terminal.md)  
 [Express, NPM, TDD, CI/CD](ReadingNotes/401/class2.md)  
+[Express REST API](ReadingNotes/401/restapi.md)  
