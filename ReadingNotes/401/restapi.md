@@ -8,7 +8,7 @@ Classes are a template for creating ____.
 
 Can a class declaration be hoisted?
 
-- Classes can not be hoisted.  
+- Classes can be hoisted But will result in a reference error because they are noy intitialized.
 
 How would you describe a constructor and contextual “this” to a non-technical friend?
 
@@ -40,4 +40,4 @@ By what mean do we initialize express.Router() in an express server?
 
 What do we use route middleware for?
 
-- To do something before the request runs.
+- To do somethijng before the request runs.
