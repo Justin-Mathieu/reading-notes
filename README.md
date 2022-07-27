@@ -59,3 +59,4 @@
 [Express REST API](ReadingNotes/401/restapi.md)  
 [Data Modeling](ReadingNotes/401/datamodeling.md)  
 [Linked Lists](ReadingNotes/401/linkedlist.md)  
+[Authentication](ReadingNotes/401/authentication.md)  
