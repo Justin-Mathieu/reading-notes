@@ -66,5 +66,6 @@
 [Stacks and Queues](ReadingNotes/401/stack-queue.md)  
 [Event Driven Applications](ReadingNotes/401/events.md)  
 [Socket.io](ReadingNotes/401/socket.io.md)  
+[Message Queues](ReadingNotes/401/messageQueues.md)  
 
 
