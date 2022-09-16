@@ -71,5 +71,6 @@
 [AWS](ReadingNotes/401/aws.md)  
 [S3](ReadingNotes/401/s3.md)  
 [Dynmno and Lambda](ReadingNotes/401/dynamo-lambda.md)  
+[AWS Events](ReadingNotes/401/dynamo-lambda.md)  
 
 
