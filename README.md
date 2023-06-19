@@ -72,5 +72,5 @@
 [S3](ReadingNotes/401/s3.md)  
 [Dynmno and Lambda](ReadingNotes/401/dynamo-lambda.md)  
 [AWS Events](ReadingNotes/401/aws-events.md)  
-[Component Based UI](ReadingNotes/401/component-ui)
+[Component Based UI](ReadingNotes/401/component-ui.md)
 
