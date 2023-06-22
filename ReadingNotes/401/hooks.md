@@ -18,4 +18,4 @@ What is the argument to the useState hook, and what are the two parts of its ret
 
 How can Component A access state from Component B?
 
-- If component A passes state down to component B, Component B can lift that state up to component A with set state function. 
+- If component A passes state down to component B, Component B can lift that state up to component A with set state function.   
