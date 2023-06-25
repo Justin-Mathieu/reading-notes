@@ -76,4 +76,5 @@
 [React Hooks](ReadingNotes/401/hooks.md)  
 [Component Lifecycle](ReadingNotes/401/component-lifecycle.md)  
 [useReducer](ReadingNotes/401/reducer.md)  
+[Hash Tables](ReadingNotes/401/hash-tables)  
 
