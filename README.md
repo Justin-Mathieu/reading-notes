@@ -78,4 +78,5 @@
 [useReducer](ReadingNotes/401/reducer.md)  
 [Hash Tables](ReadingNotes/401/hash-tables.md)  
 [Context](ReadingNotes/401/context.md)  
+[Context and Reducer](ReadingNotes/401/context-reducer.md)  
 
